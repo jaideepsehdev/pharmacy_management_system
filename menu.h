@@ -1,3 +1,4 @@
+//main menu for the user to interact with 
 #include "database.h"
 
 class Menu{
