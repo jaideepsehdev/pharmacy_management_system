@@ -33,7 +33,7 @@ public:
 	}
 
 	
-
+	//append function
 	void append(const medicine& med){
 		if (size_>=cap){
 			cap *= 2;
