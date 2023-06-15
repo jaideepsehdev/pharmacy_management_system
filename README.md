@@ -1,1 +1,1 @@
-"# pharmacy_management_system" 
+Pharmacy Database Management System for medicines
