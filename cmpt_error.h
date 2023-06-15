@@ -15,7 +15,7 @@
 namespace cmpt {
 
 // runtime_error is a pre-defined C++ object meant to be "thrown" when an
-// error occurs while a program is running. When it is thrown, the program
+// error occurs while a program is running. When it is thrown, the progra
 // will end and print the given error message.
 inline void error(const std::string& message)
 {
